@@ -1,0 +1,4 @@
+Ericsson, ERIC B, 31.37, 18, 1.40
+Electrolux, ELUX B, 18.78, 13, 0.43
+AstraZeneca, AZN, 23.44, 42, 4.97
+Evolution, EVO, 86.02, 53, 27.12
